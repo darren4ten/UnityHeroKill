@@ -20,3 +20,7 @@ E:\Projects\Unity\MyHeroKill\MyHeroKill\Temp\bin\Debug\UnityEngine.Networking.xm
 E:\Projects\Unity\MyHeroKill\MyHeroKill\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 E:\Projects\Unity\MyHeroKill\MyHeroKill\obj\Debug\Assembly-CSharp.dll
 E:\Projects\Unity\MyHeroKill\MyHeroKill\obj\Debug\Assembly-CSharp.pdb
+E:\Projects\Unity\MyHeroKill\MyHeroKill\Temp\bin\Debug\UnityEngine.Advertisements.dll
+E:\Projects\Unity\MyHeroKill\MyHeroKill\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Projects\Unity\MyHeroKill\MyHeroKill\Temp\bin\Debug\UnityEngine.Advertisements.xml
+E:\Projects\Unity\MyHeroKill\MyHeroKill\Temp\bin\Debug\UnityEngine.Analytics.xml
